@@ -1,0 +1,14 @@
+group 'Tutorials'
+version '1.0-SNAPSHOT'
+ext.moduleName = 'dependency.api'
+
+apply plugin: 'java'
+
+sourceCompatibility = 9
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}

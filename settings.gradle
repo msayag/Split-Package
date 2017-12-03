@@ -1,0 +1,5 @@
+rootProject.name = 'SplitPackage'
+include 'DependencyImpl'
+include 'DependencyAPI'
+include 'MyProject'
+
